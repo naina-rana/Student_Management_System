@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "naina",
+        "Roll No": 2,
+        "Total marks": 204,
+        "Average": 68.0,
+        "Grade": "B"
+    },
+    {
+        "Name": "ram",
+        "Roll No": 5,
+        "Total marks": 162,
+        "Average": 54.0,
+        "Grade": "B"
+    }
+]
