@@ -1,35 +1,37 @@
-# Student Management System
+🎓 Student Management System
 
-## Description
-A Python-based Student Management System that allows users to manage student records using a menu-driven program. Student data is stored permanently using a JSON file.
+A simple Python-based Student Management System that allows users to manage student records using a menu-driven interface. Student data is stored in a JSON file for persistence.
 
-## Features
-- Add Student
-- View Students
-- Search Student
-- Update Student Marks
-- Delete Student
-- Show Topper
-- Duplicate Roll Number Check
-- JSON Data Storage
+🚀 Features
 
-## Technologies Used
+-  Add Student
+-  View All Students
+-  Search Student
+-  Update Student Details
+-  Delete Student
+-  Calculate Average Marks
+-  Find Topper
+-  Store Data in JSON File
+
+🛠️ Technologies Used
+
 - Python
 - JSON
-
-## Concepts Used
-- Functions
-- Lists
-- Dictionaries
-- Loops
-- If-Else
 - File Handling
-- JSON
 
-## How to Run
-1. Open the project in VS Code.
-2. Run `main.py`.
-3. Choose an option from the menu.
+▶️ How to Run
 
-## Author
-Naina Rana
+1. Clone the repository.
+2. Open the project in VS Code.
+3. Run "Main.py".
+4. Use the menu to manage student records.
+
+📁 Project Structure
+
+- "Main.py" – Main application
+- "Students.json" – Stores student data
+- "README.md" – Project documentation
+
+👩‍💻 Author
+
+**Naina Rana**
