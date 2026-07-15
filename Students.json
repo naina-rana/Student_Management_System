@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "Name": "naina",
+        "Roll No": 1,
+        "Total marks": 160,
+        "Average": 53.333333333333336,
+        "Grade": "C"
+    },
+    {
+        "Name": "priti",
+        "Roll No": 12,
+        "Total marks": 156,
+        "Average": 52.0,
+        "Grade": "C"
+    }
+]

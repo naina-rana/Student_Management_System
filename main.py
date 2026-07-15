@@ -1,7 +1,7 @@
 import json
 
 try:
-   with open("students.json","r")as file:
+   with open("Students.json","r")as file:
       students = json.load(file)
 except:
    students = []
